@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    text-align: center;
+    margin: 0;
+    background-color: #bababa;
+    color: #ffffff;
+    font-family: "Poppins", sans-serif;
+
+}
+header{
+    background-color: #84adcd;
+    width: 100%;
+    padding: 15px 0;
+    height: 50%;
+}
+nav a{ 
+padding: 0.5rem;
+
+}
+a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: white;
+}
+h1{
+    display: flex;
+    flex-direction: column;
+    font-size: 2.2rem;
+}
+p{
+    padding: 1rem;
+}
+.kawa img{
+    width: 340px;
+}
+.kawa a{
+    font-size:1rem;
+    color: #75a2c4;
+}
+.abb h2{
+    margin-top: 70px;
+}
+.abb img{
+
+    width: 340px;
+}
+.abb a{
+    display: flex;
+    justify-content: center;
+    font-size:1rem;
+    color: #75a2c4;
+}
+.kuka h2{
+    margin-top: 70px;
+}
+.kuka img{
+
+    width: 340px;
+}
+.kuka a{
+    display: flex;
+    justify-content: center;
+    font-size:1rem;
+    color: #75a2c4;
+}
+.mapa iframe{
+    border-radius: 20px;
+}
